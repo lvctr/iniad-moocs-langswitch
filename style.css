@@ -1,0 +1,15 @@
+#buttonSwitch {
+	background-color: #ecf0f5;
+	border: none;
+	padding: 10px;
+	width: 130px;
+	position: absolute;
+	top: 50px;
+	left: calc(100% - 130px);
+}
+
+#buttonSwitch:hover {
+	background-color: #d2d6de;
+}
+
+/* 133.453 pixels from right

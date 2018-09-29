@@ -4,7 +4,8 @@
 	"description": "Allows you to change the language on MOOCs because the teachers don't want to add it for some reason.",
 	"content_scripts": [ {
 		"matches": ["https://moocs.iniad.org/*"],
-		"js": ["script.js"]
+		"js": ["script.js"],
+		"css": ["style.css"]
 	} ],
 	"manifest_version": 2
 }
