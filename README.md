@@ -1,4 +1,5 @@
 # INIAD MOOCs Language Switcher
+![Image](https://i.imgur.com/2hOK9Nj.png)
 This is a Chrome Extension that allows for easy language switching in the MOOCS learning system used in Toyo University INIAD without having to change the language setting by digging deep into the user settings every time.
 
 東洋大学情報連携学部で使われているMOOCSというeラーニングプラットフォームに簡単言語切替機能を追加するChrome拡張機能です。
