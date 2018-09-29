@@ -1,0 +1,10 @@
+{
+	"name": "INIAD MOOCs Language Switcher",
+	"version": "0.1",
+	"description": "Allows you to change the language on MOOCs because the teachers don't want to add it for some reason.",
+	"content_scripts": [ {
+		"matches": ["https://moocs.iniad.org/*"],
+		"js": ["script.js"]
+	} ],
+	"manifest_version": 2
+}
