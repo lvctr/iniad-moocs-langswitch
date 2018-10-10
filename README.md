@@ -18,4 +18,5 @@ Simply click the `Switch Language` button on the top right of the page under you
  - Default language setting checker
  - Change extension button text based on current language
  - Packed extension for easy installation via Chrome Web Store
-
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
